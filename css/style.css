@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #efeee7;
+    font: Georgia, "Times New Roman", Times, ser if;
+    color: #333333
+}
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #333333;
+    font-size: 28px;
+}
+
+h2 {
+    margin: 0 auto;
+    font-size: 24px;
+    width: 1024px;
+    text-align: center;
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+    float: left;
+}
+
+#main-bio {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+#contact-info {
+    width: 30%
+    line height 1.5em;
+    color: #d21034;
+}
